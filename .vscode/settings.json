@@ -1,0 +1,5 @@
+{
+    "html.trace": "verbose",
+    "scss.completion.completePropertyWithSemicolon": true,
+    "scss.format.spaceAroundSelectorSeparator": true
+}
